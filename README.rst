@@ -1,4 +1,4 @@
-yawd-translations, create multilingual django websites
+yawd-translations, create multilingual django websites amazing
 ======================================================
 
 `yawd-translations <http://yawd.eu/open-source-projects/yawd-translations/>`_
@@ -32,7 +32,7 @@ The application includes the following tools:
 	branch. Since many of us run production systems tied to Django 1.4, both
 	v0.5.2 and the latest documentation will be online on readthedocs.org. 
 
-Usage and demo
+Usage and Demos
 ==============
 
 See the `yawd-translations documentation <http://yawd-translations.readthedocs.org/en/latest/>`_ 
